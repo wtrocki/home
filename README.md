@@ -4,13 +4,13 @@
 
 ## Archer Mesh
 
-<img src="https://user-images.githubusercontent.com/981838/210233214-fb76cb2b-bc09-41eb-af04-9835023d9302.png" width=60 length=60></img>
+<img src="https://user-images.githubusercontent.com/981838/210233214-fb76cb2b-bc09-41eb-af04-9835023d9302.png" width=60 length=60/>
 
 http://archer.wtrocki.com
 
 ## Blinds/Curtains
 
-<img src="https://user-images.githubusercontent.com/981838/210235556-29a06447-a738-4cfa-bf16-8e4d70785307.png" width=60 length=60></img>
+<img src="https://user-images.githubusercontent.com/981838/210235556-29a06447-a738-4cfa-bf16-8e4d70785307.png" width=60 length=60/>
 
 http://mobilus.wtrocki.com
 
@@ -23,6 +23,8 @@ https://aquarea-smart.panasonic.com
 http://cam.wtrocki.com
 
 ## Media Hub
+
+<img src="https://user-images.githubusercontent.com/981838/210237455-77c1f54f-ce1b-4fc6-87bc-ed3f86d21643.png" width=60 length=60/>
 
 http://media.wtrocki.com
 
