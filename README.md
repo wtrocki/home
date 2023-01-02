@@ -32,17 +32,12 @@
 
 ## Mobile Apps
 
-Smart Things (Appliances) 
-https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=pl&gl=US
+<a href="https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=pl&gl=US"> Smart Things (Appliances)</a>
 
-Yeelight (Lights) 
-https://play.google.com/store/apps/details?id=com.yeelight.cherry&hl=pl&gl=US
+<a href="https://play.google.com/store/apps/details?id=com.yeelight.cherry&hl=pl&gl=US">Yeelight (Lights)</a>
 
-Blinds/Curtains
-https://play.google.com/store/apps/details?id=pl.com.mobilelabs.mobilus&hl=pl&gl=US
+<a href="https://play.google.com/store/apps/details?id=pl.com.mobilelabs.mobilus&hl=pl&gl=US">Blinds/Curtains</a>
 
-Stairs/Visuals
-https://play.google.com/store/apps/details?id=com.gosund.smart&hl=pl&gl=US
+<a href="https://play.google.com/store/apps/details?id=com.gosund.smart&hl=pl&gl=US">Stairs/Visuals</a>
 
-Print hub
-https://play.google.com/store/apps/details?id=com.brother.mfc.brprint&hl=pl&gl=US
+<a href="https://play.google.com/store/apps/details?id=com.brother.mfc.brprint&hl=pl&gl=US">Print hub</a>
