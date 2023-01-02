@@ -1,6 +1,4 @@
-# Rules
-
-
+# Home
 
 ## Archer Mesh
 
