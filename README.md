@@ -6,31 +6,31 @@
 
 <img src="https://user-images.githubusercontent.com/981838/210233214-fb76cb2b-bc09-41eb-af04-9835023d9302.png" width=60 length=60/>
 
-http://archer.wtrocki.com
+<a href="http://archer.wtrocki.com">Open</a>
 
 ## Blinds/Curtains
 
 <img src="https://user-images.githubusercontent.com/981838/210235556-29a06447-a738-4cfa-bf16-8e4d70785307.png" width=60 length=60/>
 
-http://mobilus.wtrocki.com
+<a href="http://mobilus.wtrocki.com">Open</a>
 
 ## Heating
 
-https://aquarea-smart.panasonic.com
+<a href="https://aquarea-smart.panasonic.com">Open</a>
 
 ## Monitoring and Security
 
-http://cam.wtrocki.com
+<a href="http://cam.wtrocki.com">Open</a>
 
 ## Media Hub
 
 <img src="https://user-images.githubusercontent.com/981838/210237455-77c1f54f-ce1b-4fc6-87bc-ed3f86d21643.png" width=60 length=60/>
 
-http://media.wtrocki.com
+<a href="http://media.wtrocki.com">Open</a>
 
 ## Print Hub
 
-http://doc.wtrocki.com
+<a href="http://doc.wtrocki.com">Open</a>
 
 ## Mobile Apps
 
